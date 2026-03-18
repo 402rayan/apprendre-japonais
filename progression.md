@@ -2,9 +2,9 @@
 
 ## Statut actuel
 
-- **Jour:** 1
+- **Jour:** 2
 - **Phase:** 1 - Fondations
-- **Dernière session:** 2026-03-17
+- **Dernière session:** 2026-03-18
 
 ## Thèmes couverts
 
@@ -12,8 +12,8 @@
 - [x] あ行 (a, i, u, e, o)
 - [x] か行 (ka, ki, ku, ke, ko)
 - [x] さ行 (sa, shi, su, se, so)
-- [ ] た行 (ta, chi, tsu, te, to)
-- [ ] な行 (na, ni, nu, ne, no)
+- [x] た行 (ta, chi, tsu, te, to)
+- [x] な行 (na, ni, nu, ne, no)
 - [ ] は行 (ha, hi, fu, he, ho)
 - [ ] ま行 (ma, mi, mu, me, mo)
 - [ ] や行 (ya, yu, yo)
@@ -22,7 +22,7 @@
 - [ ] Combinaisons (きゃ, しゅ, etc.)
 
 ### Vocabulaire
-- [ ] Salutations de base
+- [x] Salutations de base
 - [ ] Nombres 1-10
 - [ ] Jours de la semaine
 - [ ] Transport
@@ -46,7 +46,7 @@
 - [ ] Nourriture/shopping
 
 ### Culture
-- [ ] Salutations et courbettes
+- [x] Salutations et courbettes
 - [ ] Règles temples/shrines
 - [ ] Onsen
 - [ ] Transport (règles)
@@ -58,8 +58,7 @@
 
 ## Notes de session
 
-### Jour 1 (2026-03-17)
-- Hiragana: あ行, か行, さ行
-- Mots: すし, さけ, えき, いいえ, あさ
-- Phrases: おはようございます, すみません
-- Fichier: `lecons/jour-01.md`
+### Jours 1-2 (17-18 mars)
+- Hiragana: あ行, か行, さ行, た行, な行 (25 hiragana)
+- Salutations de base
+- À partir du jour 3 : nouvelle approche thématique

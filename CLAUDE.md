@@ -14,33 +14,35 @@
 - **Phase:** 1 - Fondations
 - **Dernière session:** Jour 1 - Hiragana あ行 à さ行 + premiers mots
 
-## Roadmap suggérée
+## Roadmap
 
-### Phase 1: Fondations (~J1-10)
-- Consolider Hiragana
-- Premiers mots pratiques
-- Phrases ultra-basiques (すみません, ありがとう, etc.)
-- Comptage, jours de la semaine
+### Jours 1-2 : Bases hiragana
+- Hiragana essentiels + salutations
 
-### Phase 2: Vocabulaire pratique (~J11-25)
-- Transport (train, bus, taxi)
-- Restaurant/nourriture
-- Shopping/prix
-- Hébergement
-- Directions
-- *(Katakana intégrés naturellement)*
+### À partir du Jour 3 : Approche thématique + grammaire
 
-### Phase 3: Phrases et conversations (~J26-40)
-- Commander, demander, refuser poliment
-- Situations d'urgence
-- Small talk basique
-- Kanji essentiels (panneaux, menus)
+**Principe :** Chaque session = 1 thème concret avec :
+1. Structure de phrase / grammaire utile
+2. Vocabulaire EN CONTEXTE (pas de listes isolées)
+3. Exemples pratiques
+4. Interaction : demander à l'utilisateur ce qu'il veut savoir dire
 
-### Phase 4: Préparation finale (~J41-50)
-- Scénarios complets
-- Culture et étiquette
-- Révision ciblée
-- Checklist voyage
+**Thèmes prévus (ordre flexible) :**
+- Se présenter / small talk basique
+- Au restaurant (commander, allergies, addition)
+- Transport (acheter un ticket, demander son chemin)
+- Shopping (prix, tailles, paiement)
+- Hébergement (check-in, demandes)
+- Urgences / problèmes
+- Konbini / vie quotidienne
+
+**Bases grammaticales à intégrer progressivement :**
+- Structure sujet-objet-verbe
+- Particules essentielles (は, を, に, で, か)
+- Verbes clés : aller, vouloir, avoir, être, manger, acheter...
+- Forme polie (-ます)
+- Demander poliment (~ください, ~をお願いします)
+- Questions (か, なに, どこ, いくら...)
 
 ## Instructions pour Claude
 
@@ -49,25 +51,28 @@
 2. Générer contenu selon la demande
 3. Mettre à jour `progression.md` et les ressources
 
-### Format des leçons
-- Court et pratique (~20-30 min de contenu)
-- Romanji inclus pour prononciation
-- Contexte voyage réel
-- Mini-exercice ou quiz à la fin
+### Format des sessions (à partir J3)
+- Commencer par demander : "Qu'est-ce que tu veux savoir dire dans [thème] ?"
+- Enseigner la STRUCTURE d'abord, puis le vocabulaire dedans
+- Romanji toujours inclus
+- Exemples concrets et variantes
+- Éviter les listes de vocabulaire isolé
+- Encourager l'utilisateur à construire ses propres phrases
 
 ### Fichiers
-- `lecons/jour-XX.md` - Leçons écrites (historique complet)
+- `sessions/jour-XX.md` - Sessions (historique)
+- `ressources/grammaire.md` - Points de grammaire appris
 - `ressources/hiragana.md` - Référence hiragana
 - `ressources/katakana.md` - Référence katakana
 - `ressources/vocabulaire.md` - Mots cumulés par catégorie
-- `ressources/phrases.md` - Phrases cumulées
+- `ressources/phrases.md` - Phrases utiles par situation
 - `ressources/kanji.md` - Kanji appris
 - `ressources/culture.md` - Notes culture/étiquette
 
 ### Ce que l'utilisateur peut demander
-- "Jour X, leçon sur [thème]"
-- "Quiz sur [thème]"
-- "Révision hiragana/katakana"
-- "Comment dire X?"
-- "Explique [grammaire/culture]"
+- "Session sur [thème]" (restaurant, transport, etc.)
+- "Comment dire X ?"
+- "Je veux pouvoir faire X" (commander, demander mon chemin...)
+- "Explique [grammaire/point de langue]"
+- "Quiz/révision sur [thème]"
 - Questions libres

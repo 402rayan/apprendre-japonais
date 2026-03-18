@@ -124,13 +124,90 @@ Le petit っ double la consonne suivante:
 - おかあさん (okaasan) = mère (le "a" est long)
 - おにいさん (oniisan) = grand frère (le "i" est long)
 
-## Mnémoniques utiles
+## Mnémotechniques
 
+### あ行 (voyelles)
 | Hiragana | Astuce |
 |----------|--------|
-| あ | Ressemble à un "A" stylisé |
-| い | Deux traits comme "ii" (deux i) |
-| う | Un crochet qui sourit (ouh!) |
-| め | Un œil (me = œil en japonais) |
-| の | Un tourbillon, comme "no" qui tourne |
-| ん | Ressemble à "n" en cursive |
+| あ (a) | Un **a**crobate qui fait le grand écart |
+| い (i) | Deux personnes côte à côte, comme "**ii**" (deux i) |
+| う (u) | Une bouche qui fait "**ou**h!" avec un crochet |
+| え (e) | Un **é**tranger avec un chapeau |
+| お (o) | Un visage de profil qui dit "**o**h!" |
+
+### か行
+| Hiragana | Astuce |
+|----------|--------|
+| か (ka) | Un **ka**tana (sabre) qui coupe |
+| き (ki) | Une **k**ey (clé) à l'ancienne |
+| く (ku) | Un bec de **cou**cou |
+| け (ke) | Une porte de **cage** ouverte |
+| こ (ko) | Deux vers qui se **co**urtisent |
+
+### さ行
+| Hiragana | Astuce |
+|----------|--------|
+| さ (sa) | Un **sa**mouraï avec son épée |
+| し (shi) | Un hameçon - "**shi**t, un poisson!" |
+| す (su) | Un visage avec un nez - "**sou**rire" |
+| せ (se) | Une bouche qui **se** plaint |
+| そ (so) | Une aiguille qui **so**ud en zigzag |
+
+### た行
+| Hiragana | Astuce |
+|----------|--------|
+| た (ta) | "**ta**" - quelqu'un qui tire la langue |
+| ち (chi) | Un **chi**ffre 5 à l'envers, ou un cheerleader |
+| つ (tsu) | Un **tsu**nami (une vague) |
+| て (te) | La **te**te d'un chien de profil |
+| と (to) | Un **to**rtillon, doigt de pied avec une écharde |
+
+### な行
+| Hiragana | Astuce |
+|----------|--------|
+| な (na) | Un **n**œud avec une croix |
+| に (ni) | Un **ni**nja agenouillé (deux traits = genoux) |
+| ぬ (nu) | Des **nou**illes entortillées |
+| ね (ne) | Un escargot avec son **ne**z (antenne) |
+| の (no) | "**No** entry" - panneau interdit qui tourne |
+
+### は行
+| Hiragana | Astuce |
+|----------|--------|
+| は (ha) | "**Ha**!" - quelqu'un qui rit |
+| ひ (hi) | Un sourire - "**hee**hee" |
+| ふ (fu) | Le mont **Fu**ji |
+| へ (he) | Une montagne / une tente |
+| ほ (ho) | Un **ho**mme avec un chapeau et une cravate |
+
+### ま行
+| Hiragana | Astuce |
+|----------|--------|
+| ま (ma) | **Ma**man avec deux yeux |
+| み (mi) | Le chiffre 21 - "twenty-one, **mi**!" |
+| む (mu) | Une vache qui fait "**mou**" |
+| め (me) | Un œil (**me** = œil en japonais) |
+| も (mo) | Un hameçon qui attrape **mo**re poissons |
+
+### や行
+| Hiragana | Astuce |
+|----------|--------|
+| や (ya) | Un **ya**k de profil |
+| ゆ (yu) | Un poisson qui nage - "**you**!" |
+| よ (yo) | Un **yo**-yo qui descend |
+
+### ら行
+| Hiragana | Astuce |
+|----------|--------|
+| ら (ra) | Un **ra**ptor / dinosaure |
+| り (ri) | Deux **ri**vières qui coulent |
+| る (ru) | Une **rou**te qui tourne |
+| れ (re) | Quelqu'un qui **re**çoit un cadeau |
+| ろ (ro) | Le chiffre 3 - "th**ro**w three" |
+
+### わ行 + ん
+| Hiragana | Astuce |
+|----------|--------|
+| わ (wa) | "**Wa**!" - surprise, bras levés |
+| を (wo) | Un homme qui porte un sac |
+| ん (n) | Ressemble à "n" en cursive |
