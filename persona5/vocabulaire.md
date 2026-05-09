@@ -7,3 +7,9 @@ Légende utilité : ✅ utile (voyage / courant) · 🟡 contexte · 🔴 trop a
 | よく | yoku | bien, attentivement, souvent | Entendu dans « yoku kike » | ✅ |
 | 聞く | kiku | écouter / demander | id. — sens double important | ✅ |
 | 聞け | kike | « écoute ! » (impératif brusque) | id. | 🟡 |
+| ちょっと | chotto | un peu, juste / hé ! (interpeller) | « chotto misero yo » | ✅ |
+| 見せる | miseru | montrer | id. | ✅ |
+| 見せろ | misero | « montre ! » (impératif brusque) | id. | 🟡 |
+| よ | yo | particule de fin d'insistance | id. | ✅ |
+| 見る | miru | voir, regarder | (cf. attention piège miru/miseru/mieru) | ✅ |
+| 見える | mieru | être visible, se voir | id. | 🟡 |
