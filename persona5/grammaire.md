@@ -33,6 +33,50 @@ Particule placée en fin de phrase pour **insister / informer / affirmer**. Pré
 
 À distinguer de **ね** (*ne*, sollicitation d'accord, « n'est-ce pas ? ») et **な** (*na*, plus masculin/réflexif).
 
+### Particule de fin ぜ (ze) — 🟡 reconnaître, ne pas produire
+
+Particule placée en fin de phrase pour donner emphase + ton **masculin, familier, un peu macho/cool**. Très présente dans les anime, jeux vidéo et chez les persos comme Ryuji.
+
+- いいぜ (*ii ze*) — « Cool / Ça me va »
+- やるぜ (*yaru ze*) — « Je le fais / On y va ! »
+- 行くぜ (*iku ze*) — « On y va ! »
+- その意気だぜ (*sono iki da ze*) — « C'est ça l'esprit ! »
+
+**À ne jamais utiliser** : avec un supérieur, en voyage avec des inconnus, ou si on est une femme (sonne très étrange). En vrai usage, **よ (yo)** est l'équivalent neutre utilisable par tout le monde.
+
+| Particule | Registre | Usage |
+|---|---|---|
+| よ (yo) | neutre, tous registres | insistance / informer |
+| ね (ne) | neutre | sollicite l'accord (« n'est-ce pas ? ») |
+| な (na) | masculin / réflexif | semi-réflexion à voix haute |
+| ぜ (ze) | masculin familier, cool | emphase virile, copains |
+| ぞ (zo) | masculin familier, plus dur | avertissement / annonce |
+
+### Démonstratifs こ・そ・あ・ど — ✅ système clé
+
+Famille de mots qui changent de préfixe selon la distance :
+
+| Préfixe | Distance | Exemples |
+|---|---|---|
+| こ- | proche du locuteur | これ (kore, ceci), ここ (koko, ici), この (kono, ce…) |
+| そ- | proche de l'interlocuteur | それ (sore, cela), そこ (soko, là), **その (sono, ce…)** |
+| あ- | loin des deux | あれ (are, ça là-bas), あそこ (asoko), あの (ano) |
+| ど- | question | どれ (dore, lequel), どこ (doko, où), どの (dono, quel) |
+
+Différence **その vs そい** : その + nom (« ce X »), それ tout seul (« ça »). Dans *sono iki da ze* → « **cet** élan-là, c'est ça ».
+
+### 〜だ vs 〜です — ✅ à distinguer
+
+Même fonction (copule « être »), registres différents :
+
+- だ (da) — familier, entre amis, monologue, anime/jeux
+- です (desu) — poli, à utiliser **par défaut en voyage**
+
+Exemples :
+- 学生だ (gakusei da) — « je suis étudiant » (familier)
+- 学生です (gakusei desu) — « je suis étudiant » (poli)
+- その意気だぜ → forme familière + ぜ → registre vraiment casual masculin.
+
 ### Famille 見 — miru / miseru / mieru — ✅ à différencier
 
 Trois verbes très proches mais sens différents :
